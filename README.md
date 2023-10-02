@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="gdiasgif" height="150" style="border-radius:50px;" src="https://media.tenor.com/j7fKV15TbR0AAAAC/devil-may-cry-dante.gif?width=676&height=676">
+  <img align="right" alt="gdiasgif" height="150" style="border-radius:50px;" src="https://giphy.com/gifs/one-piece-manga-nQDKSeRlIyfmw">
 </div>
 
  ##
