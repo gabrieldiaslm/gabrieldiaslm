@@ -1,4 +1,4 @@
-### Hi, my name is Gabriel Dias
+![image](https://github.com/gabrieldiaslm/gabrieldiaslm/assets/115375482/7a96e9b0-f9ec-49ac-8d9f-2c17bc3806ec)### Hi, my name is Gabriel Dias
 <div align="center">
   <a href="https://github.com/gabrieldiaslm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldiaslm&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="gdiasgif" height="150" style="border-radius:50px;" src="<iframe src="https://giphy.com/embed/nQDKSeRlIyfmw" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-piece-manga-nQDKSeRlIyfmw">via GIPHY</a></p>">
+  <img align="right" alt="gdiasgif" height="150" style="border-radius:50px;" src="https://media.tenor.com/KP17MoXXpyAAAAAC/one-piece.gif">
 </div>
 
  ##
