@@ -7,7 +7,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gdias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gdias-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img align="right" alt="gdiasgif" height="150" style="border-radius:50px;" src="">
 </div>
 
  ##
